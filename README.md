@@ -1,43 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Youssef Adel
-=====================================================================================================================================
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-React Frontend Developer | Transforming Designs into Clean, Responsive Code with Tailwind CSS | Passionate about High-Performance UIs
--------------------------------------------------------------------------------------------------------------------------------------
+###
 
-As a passionate Frontend Developer, I thrive on turning elegant designs into intuitive, high-performing digital experiences. From my first lines of code, I have been captivated by the power of clean, responsive interfaces that not only look exceptional but also deliver seamless user interactions across devices.
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-My technical foundation includes HTML5, CSS3, JavaScript (ES6+), React.js, and Tailwind CSS. I specialize in building modern, component-based applications, implementing responsive design principles, and optimizing performance for fast-loading, accessible web solutions. Proficient with Git and GitHub, I maintain clean, collaborative codebases that support agile development workflows.
+###
 
-I excel at solving real business challenges: converting complex Figma designs into production-ready, responsive code; resolving cross-browser and mobile responsiveness issues; and enhancing application performance through efficient state management and component optimization. Whether developing educational platforms or polished landing pages, I focus on delivering tangible value through thoughtful engineering and user-centered design.
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=darksnake288-pixel.darksnake288-pixel&"  />
+</div>
 
-Core Skills
+###
 
-• React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 & CSS3
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-• Responsive & Mobile-First Design • Component Architecture
+###
 
-• Git & GitHub • Performance Optimization • Figma to Code Translation
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-• Cross-Browser Compatibility • UI/UX Implementation
+###
 
-I am actively seeking internship or entry-level Frontend Developer opportunities where I can contribute to innovative projects and grow alongside talented engineering teams. Feel free to connect or reach out via direct message or email — I would welcome the opportunity to discuss how my skills can support your team’s goals.
+<p data-importer="text" align="left">I'm Youssef Adel Mohamed from Egypt<br><br>As a passionate Frontend Developer, I thrive on turning elegant designs into intuitive, high-performing digital experiences. From my first lines of code, I have been captivated by the power of clean, responsive interfaces that not only look exceptional but also deliver seamless user interactions across devices.<br><br>My technical foundation includes HTML5, CSS3, JavaScript (ES6+), React.js, and Tailwind CSS. I specialize in building modern, component-based applications, implementing responsive design principles, and optimizing performance for fast-loading, accessible web solutions. Proficient with Git and GitHub, I maintain clean, collaborative codebases that support agile development workflows.<br><br>I excel at solving real business challenges: converting complex Figma designs into production-ready, responsive code; resolving cross-browser and mobile responsiveness issues; and enhancing application performance through efficient state management and component optimization. Whether developing educational platforms or polished landing pages, I focus on delivering tangible value through thoughtful engineering and user-centered design.<br><br>Core Skills<br><br>• React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 & CSS3<br><br>• Responsive & Mobile-First Design • Component Architecture<br><br>• Git & GitHub • Performance Optimization • Figma to Code Translation<br><br>• Cross-Browser Compatibility • UI/UX Implementation<br><br>I am actively seeking internship or entry-level Frontend Developer opportunities where I can contribute to innovative projects and grow alongside talented engineering teams. Feel free to connect or reach out via direct message or email — I would welcome the opportunity to discuss how my skills can support your team’s goals.</p>
 
-*   🌍  I'm based in EGYPT
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-                  </p>
-                  
+###
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/darksnake288-pixel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/youssef-adel-4133323ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+</div>
 
-<a href="http://www.github.com/darksnake288-pixel"><img src="https://github-readme-stats.vercel.app/api?username=darksnake288-pixel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="darksnake288-pixel's GitHub stats" /></a>
+###
 
-<a href="http://www.github.com/darksnake288-pixel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darksnake288-pixel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-<a href="https://github.com/darksnake288-pixel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksnake288-pixel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/darksnake288-pixel/darksnake288-pixel/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/darksnake288-pixel/darksnake288-pixel/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/youssef-adel-4133323ba" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="wa.me/+201127255370" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="207" src="https://i.pinimg.com/736x/2d/bb/3a/2dbb3afc1dc0858c26e76daa0164906c.jpg"  />
+</div>
+
+###
