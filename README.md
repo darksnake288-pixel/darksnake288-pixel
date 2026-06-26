@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Youssef Adel Mohamed from Egypt<br><br>As a passionate Frontend Developer, I thrive on turning elegant designs into intuitive, high-performing digital experiences. From my first lines of code, I have been captivated by the power of clean, responsive interfaces that not only look exceptional but also deliver seamless user interactions across devices.<br><br>My technical foundation includes HTML5, CSS3, JavaScript (ES6+), React.js, and Tailwind CSS. I specialize in building modern, component-based applications, implementing responsive design principles, and optimizing performance for fast-loading, accessible web solutions. Proficient with Git and GitHub, I maintain clean, collaborative codebases that support agile development workflows.<br><br>I excel at solving real business challenges: converting complex Figma designs into production-ready, responsive code; resolving cross-browser and mobile responsiveness issues; and enhancing application performance through efficient state management and component optimization. Whether developing educational platforms or polished landing pages, I focus on delivering tangible value through thoughtful engineering and user-centered design.<br><br>Core Skills<br><br>• React.js • Tailwind CSS • JavaScript (ES6+) • HTML5 & CSS3<br><br>• Responsive & Mobile-First Design • Component Architecture<br><br>• Git & GitHub • Performance Optimization • Figma to Code Translation<br><br>• Cross-Browser Compatibility • UI/UX Implementation<br><br>I am actively seeking internship or entry-level Frontend Developer opportunities where I can contribute to innovative projects and grow alongside talented engineering teams. Feel free to connect or reach out via direct message or email — I would welcome the opportunity to discuss how my skills can support your team’s goals.</p>
+<p data-importer="text" align="left">I'm Youssef Adel Mohamed from Egypt<br><br>As a passionate Frontend Developer, I thrive on turning elegant designs into intuitive, high-performing digital expe[...]
 
 ###
 
@@ -55,8 +55,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/darksnake288-pixel/darksnake288-pixel/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/darksnake288-pixel/darksnake288/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=darksnake288-pixel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksnake288-pixel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula" alt="Top languages" />
 </div>
 
 ###
